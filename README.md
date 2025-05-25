@@ -2,6 +2,7 @@
 # Guo Zhihan 
 ## Hi there 👋
 I am a thild-year undergraduate student in the Software Engineer at the College of Computer and Information Science, Southwest University.
+I’m open to any kinds of collaboration. Please feel free to contact me directly through email.
 
 📧 Zhihan.G@outlook.com | 📱 (+86)151-8699-9278 | 🐱 [GitHub](https://github.com/)  
 
