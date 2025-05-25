@@ -50,6 +50,23 @@ GPA: 81.04/100 | IELTS: 6.0
 - Integrated TOF radar and Molex laser tech for obstacle avoidance; Created CAD 3D diagrams and demo videos.  
 - Wrote 78-page technical manual; Secured provincial-level project approval.  
 
+### **Mathematical Contest In Modeling: Momentum in Tennis (Problem C)**  
+*Member | Feb 2024*  
+- Captured scoring patterns in tennis matches and analyzed key factors influencing results using randomness analysis.  
+- Preprocessed match data via **missing value imputation, outlier detection, and feature standardization**; managed datasets with **MySQL**.  
+- Built a momentum scoring model with **TOPSIS algorithm**, normalizing 8 attributes (e.g., serving speed, hitting accuracy).  
+- Conducted statistical analysis with **SPSS**, applied **Pearson’s chi-squared test** to prove correlation between momentum levels and match outcomes.  
+- Developed a **Markov model** to predict momentum states, derived momentum probability expectation formulas.  
+- Validated model accuracy through **Markov steady-state distribution tests** and proposed data-driven strategies for match optimization.  
+
+### **12th Certificate Authority Cup: Twilight Factor of Telescopes (Problem D)**  
+*Member | Nov 2023*  
+- Designed a standardized evaluation framework for telescope performance in low-light environments.  
+- Created a resolution model integrating **telescope parameters, optical characteristics, and human eye perception**, calculating correction factors for dim conditions.  
+- Innovated a twilight factor algorithm based on **signal-to-noise ratio, exit pupil intensity, and resolution patterns**.  
+- Developed distinct algorithms for **binoculars (human-eye observation)** and **CMOS video lenses**, enabling standardized device comparisons.  
+- Provided weighted nonlinear processing to compute twilight factors, addressing limitations of traditional models.  
+- Delivered actionable recommendations for telescope selection in astronomical observation scenarios.  
 ---
 
 ## 👨💻 Internship Experience  
