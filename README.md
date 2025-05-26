@@ -20,16 +20,19 @@ GPA: 81.04/100 | IELTS: 6.0
 ---
 
 ## 📝 Publication  
-**First Author**, *Comprehensive Analysis of Fruit Detection, Ripeness Assessment, and Mass Estimation Using YOLOv7, ResNet, and ViT Models*  
-2024 IEEE 3rd International Conference on Electrical Engineering, Big Data and Algorithms | Feb 2024 | DOI: 1647  
-
 <p>    
-<img  src=""  width="400"  align="left" />
-<b>Comprehensive Analysis of Fruit Detection, Ripeness Assessment, and Mass Estimation using YOLOv7, ResNet, and ViT Models</b>
+<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/apple/Assessment%2C%20and%20Mass%20Estimation%20using%20YOLOv7%2C%20ResNet%2C%20and%20ViT%20Models.png"  width="400"  align="left" /><br>
+<b>Comprehensive Analysis of Fruit Detection, Ripeness Assessment, and Mass Estimation Using YOLOv7, ResNet, and ViT Models</b>
 <br>
-<b>Zhihan Guo</b>, Minqi Liu
+<b>Zhihan Guo</b>, Minqi Liu<br>IEEE 3rd International Conference on Electrical Engineering, Big Data and Algorithms 2024<br>
+  <a href="#" style="color:#3498db; text-decoration:none; border:2px solid #3498db; padding:6px 12px; border-radius:5px; margin-right:15px;">[Webpage]</a>
+  <br><br><br>
 </p>
+<br><br><br>
+
+
 ---
+
 
 ## 🏆 Honors & Awards  
 - **Third-class Scholarship** | Southwest University (Top 17.5%) | Oct 2024  
