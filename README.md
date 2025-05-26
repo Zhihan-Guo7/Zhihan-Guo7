@@ -9,6 +9,9 @@ I’m open to any kinds of collaboration. Please feel free to contact me directl
 ---
 
 ## 🎓 Education  
+**Guiyang No.1 High School | Sep 2019 - Jun 2022**
+![Guiyang No.1 High School Logo](attachment://logo.png)
+
 **Southwest University (SWU)**  
 Bachelor of Engineering in Software Engineering | Sep 2022 - Jun 2026  
 GPA: 81.04/100 | IELTS: 6.0  
