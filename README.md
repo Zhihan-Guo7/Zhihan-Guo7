@@ -71,7 +71,16 @@ GPA: 81.04/100 | IELTS: 6.0
 - Innovated a twilight factor algorithm based on **signal-to-noise ratio, exit pupil intensity, and resolution patterns**.  
 - Developed distinct algorithms for **binoculars (human-eye observation)** and **CMOS video lenses**, enabling standardized device comparisons.  
 - Provided weighted nonlinear processing to compute twilight factors, addressing limitations of traditional models.  
-- Delivered actionable recommendations for telescope selection in astronomical observation scenarios.  
+- Delivered actionable recommendations for telescope selection in astronomical observation scenarios.
+<div align = "center">    
+<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/Image%20of%20the%20signal-to-noise%20ratio%20equation.png" width="30%" />
+<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/Eye%20brightness%20sensory%20map%20.png" width="30%" />
+<img  src="https://i-blog.csdnimg.cn/blog_migrate/348f8ce8a69c97427cf55dde66f1b4c7.png" width="30%" />
+<br>
+这是3张相同的图片，用来演示说明
+</div>
+
+  
 ---
 
 ## 👨💻 Internship Experience  
