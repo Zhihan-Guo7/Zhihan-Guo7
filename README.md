@@ -64,7 +64,7 @@ GPA: 81.04/100 | IELTS: 6.0
 <img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/apple/Apple%20ripening%20process%20chart.png" width="50%" /> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/apple/Histogram%20of%20maturity%20distribution%20of%20apples.png" width="25%" />
 <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Apple ripening process chart &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Histogram of maturity distribution of apples
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Apple ripening process chart &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Histogram of maturity distribution of apples
 </div>
 
 
@@ -98,26 +98,25 @@ Comparison of resnet model and vif model results
 - Preprocessed match data via **missing value imputation, outlier detection, and feature standardization**; managed datasets with **MySQL**.
 
 <div align = "center">    
-&emsp;&emsp;&emsp;
-<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/Visualization%20of%20players'%20Momentum%20Score.png" width="40%" /> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/Crossplot%20of%20GAME%20winloss%20scenarios%20and%20momentum%20score.png" width="40%" />
+<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/Visualization%20of%20players'%20Momentum%20Score.png" width="46%" /> &emsp;
+<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/Crossplot%20of%20GAME%20winloss%20scenarios%20and%20momentum%20score.png" width="50%" />
 <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Visualization of datas(players' Momentum Score) &emsp;&emsp;&emsp;&emsp;&emsp; Crossplot of GAME win/loss scenarios and momentum score
+&emsp;&emsp;&emsp;&emsp;Visualization of datas(players' Momentum Score) &emsp;&emsp;&emsp;&emsp;&emsp; Crossplot of GAME win/loss scenarios and momentum score
 </div>
 
 - Built a momentum scoring model with **TOPSIS algorithm**, normalizing 8 attributes (e.g., serving speed, hitting accuracy).  
 - Conducted statistical analysis with **SPSS**, applied **The Run test** to prove correlation between momentum levels and match outcomes.
 <div align = "center">    
-<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/Result%20of%20the%20run%20test.png" width="40%" /> 
-  
+<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/Result%20of%20the%20run%20test.png" width="40%" /> <br>
 Result of the run test
+  
   </div>
   
 - Developed a **Markov model** to predict momentum states, derived momentum probability expectation formulas.  
 - Validated model accuracy through **Markov steady-state distribution tests** and proposed data-driven strategies for match optimization.
 <div align = "center">    
-&emsp;&emsp;&emsp;&emsp;<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/Markov-Based%20Tennis%20Momentum%20State%20Prediction%20Model%20running%20results.png" width="40%" /> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/Conceptual%20Diagram%20for%20the%20Establishment%20of%20Markov%20Predictive%20Models.png" width="40%" />
+&emsp;&emsp;&emsp;&emsp;<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/Markov-Based%20Tennis%20Momentum%20State%20Prediction%20Model%20running%20results.png" width="42%" /> &emsp;&emsp;&emsp;
+<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/Conceptual%20Diagram%20for%20the%20Establishment%20of%20Markov%20Predictive%20Models.png" width="46%" />
 <br>
 Markov-Based Tennis Momentum State Prediction Model running results&emsp;&emsp;&emsp; &emsp; Conceptual Diagram for Establishing the Model
 </div>
