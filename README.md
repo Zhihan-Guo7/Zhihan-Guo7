@@ -61,10 +61,10 @@ GPA: 81.04/100 | IELTS: 6.0
   
 - Mass estimation algorithm:Introduce the coin reference to establish the pixel-mass conversion model ,derive the mass calculation formula, then estimate the mass of a single fruit by the red pixel area.
 <div align = "center">    
-<img  src="" width="40%" /> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-<img  src="" width="40%" />
+<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/apple/Apple%20ripening%20process%20chart.png" width="40%" /> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/idges/apple/Histogram%20of%20maturity%20distribution%20of%20apples.png" width="40%" />
 <br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Visualization of datas(players' Momentum Score) &emsp;&emsp;&emsp;&emsp;&emsp; Crossplot of GAME win/loss scenarios and momentum score
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Apple ripening process chart &emsp;&emsp;&emsp;&emsp;&emsp; Histogram of maturity distribution of apples
 </div>
 
 
