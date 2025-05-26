@@ -9,7 +9,9 @@ I’m open to any kinds of collaboration. Please feel free to contact me directl
 ---
 
 ## 🎓 Education  
-![](https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/%E8%B4%B5%E9%98%B3%E4%B8%80%E4%B8%AD.jpg)**Guiyang No.1 High School | Sep 2019 - Jun 2022**
+<p style="display: flex; align-items: center;">
+  <strong>Guiyang No.1 High School </strong><img src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/%E8%B4%B5%E9%98%B3%E4%B8%80%E4%B8%AD.jpg?raw=true" alt="Guiyang No.1 High School Logo" style="height: 1em; margin-right: 0.5em;">       &nbsp; | Sep 2019 - Jun 2022
+</p>
 
 **Southwest University (SWU)**  
 Bachelor of Engineering in Software Engineering | Sep 2022 - Jun 2026  
