@@ -153,13 +153,13 @@ Markov-Based Tennis Momentum State Prediction Model running results&emsp;&emsp;&
 
 ## 🌐 Exchange Experience  
 <p>    
-<img  src="https://i-blog.csdnimg.cn/blog_migrate/348f8ce8a69c97427cf55dde66f1b4c7.png"  width="220"  align="right"  />
+<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/HK.jpg"  width="220"  align="right"  />
   <b>The Chinese University of Hong Kong | Feb 2024 </b><br>
 - Researched SenseTime’s AI risk assessment and Bowtie Insurance’s digital marketing strategies.  <br>
 - Proposed blockchain integration for food supply chain traceability (Qian Da Ma Supermarket case study).  <br>
 - Delivered 34-minute English presentation (Grade: A-).
 </p>
-
+<br>
 
 
 ---
