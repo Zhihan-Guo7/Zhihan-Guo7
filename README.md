@@ -58,11 +58,18 @@ GPA: 81.04/100 | IELTS: 6.0
 ### **Mathematical Contest In Modeling: Momentum in Tennis**  
 *Feb 2024*  
 - Captured scoring patterns in tennis matches and analyzed key factors influencing results using randomness analysis.  
-- Preprocessed match data via **missing value imputation, outlier detection, and feature standardization**; managed datasets with **MySQL**.  
+- Preprocessed match data via **missing value imputation, outlier detection, and feature standardization**; managed datasets with **MySQL**.
+  <div align = "center">    
+<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/Image%20of%20the%20signal-to-noise%20ratio%20equation.png" width="20%" /> &emsp;&emsp;&emsp;&emsp;
+<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/Eye%20brightness%20sensory%20map%20.png" width="20%" />
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/The%20new%20dusk%20factor%20is%20applicable%20to%20the%20statistical%20results%20of%20tests%20conducted%20with%20seven%20different%20lenses.png" width="20%" />
+
+</div>
 - Built a momentum scoring model with **TOPSIS algorithm**, normalizing 8 attributes (e.g., serving speed, hitting accuracy).  
 - Conducted statistical analysis with **SPSS**, applied **Pearson’s chi-squared test** to prove correlation between momentum levels and match outcomes.  
 - Developed a **Markov model** to predict momentum states, derived momentum probability expectation formulas.  
-- Validated model accuracy through **Markov steady-state distribution tests** and proposed data-driven strategies for match optimization.  
+- Validated model accuracy through **Markov steady-state distribution tests** and proposed data-driven strategies for match optimization.
 
 ### **Mathematical Modeling: Twilight Factor of Telescopes**  
 *Nov 2023*  
