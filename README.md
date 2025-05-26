@@ -39,23 +39,24 @@ GPA: 81.04/100 | IELTS: 6.0
 ---
 
 ## 💼 Professional Experience  
-
+                                                                            
 ### **Generation of Wargame Sand Tables Based on Diffusion Models**  
-*Member | Jan 2024 - Feb 2025*  
+*Jan 2024 - Feb 2025*  
 - Integrated diffusion models and text-driven tech to develop a military chess sandbox generation system.  
 - Built a high-quality dataset through data cleaning, annotation, and augmentation (rotation/scaling).  
 - Optimized model performance via hyperparameter tuning, network structure refinement, and regularization.  
 - Collaborated with military experts to validate results; Authored 10,550-word proposal for national project approval.  
 
 ### **“Cun Buyixing” — Intelligent Unmanned Delivery Vehicle**  
-*Member | Nov 2023 - Mar 2024*  
+<!--*Member | Nov 2023 - Mar 2024* --> 
+*Nov 2023 - Mar 2024*
 - Designed wheel-track composite structure for terrain adaptability (slopes, stairs, elevators).  
 - Implemented GPS/BeiDou navigation and RVIZ for real-time 3D motion tracking.  
 - Integrated TOF radar and Molex laser tech for obstacle avoidance; Created CAD 3D diagrams and demo videos.  
 - Wrote 78-page technical manual; Secured provincial-level project approval.  
 
-### **Mathematical Contest In Modeling: Momentum in Tennis (Problem C)**  
-*Member | Feb 2024*  
+### **Mathematical Contest In Modeling: Momentum in Tennis**  
+*Feb 2024*  
 - Captured scoring patterns in tennis matches and analyzed key factors influencing results using randomness analysis.  
 - Preprocessed match data via **missing value imputation, outlier detection, and feature standardization**; managed datasets with **MySQL**.  
 - Built a momentum scoring model with **TOPSIS algorithm**, normalizing 8 attributes (e.g., serving speed, hitting accuracy).  
@@ -63,8 +64,8 @@ GPA: 81.04/100 | IELTS: 6.0
 - Developed a **Markov model** to predict momentum states, derived momentum probability expectation formulas.  
 - Validated model accuracy through **Markov steady-state distribution tests** and proposed data-driven strategies for match optimization.  
 
-### **12th Certificate Authority Cup: Twilight Factor of Telescopes (Problem D)**  
-*Member | Nov 2023*  
+### **Mathematical Modeling: Twilight Factor of Telescopes**  
+*Nov 2023*  
 - Designed a standardized evaluation framework for telescope performance in low-light environments.  
 - Created a resolution model integrating **telescope parameters, optical characteristics, and human eye perception**, calculating correction factors for dim conditions.  
 - Innovated a twilight factor algorithm based on **signal-to-noise ratio, exit pupil intensity, and resolution patterns**.  
