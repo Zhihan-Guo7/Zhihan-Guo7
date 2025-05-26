@@ -69,6 +69,12 @@ GPA: 81.04/100 | IELTS: 6.0
 
 
 - Comparative Analysis of Classification Models: Constructing ResNet and ViT Dual Model Classification Frameworks, Validation Set Accuracy Comparison Experiments.
+<div align = "center">    
+<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/apple/Comparison%20of%20resnet%20model%20and%20vif%20model%20results.png" width="25%" /> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/apple/pic1.png" width="25%" />
+<br>
+Comparison of resnet model and vif model results
+</div>
   
                                                                             
 ### **Generation of Wargame Sand Tables Based on Diffusion Models**  
