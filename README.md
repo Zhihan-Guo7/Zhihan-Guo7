@@ -48,7 +48,7 @@ GPA: 81.04/100 | IELTS: 6.0
 ---
 
 ## 💼 Professional Experience  
-### **Research on Apple Detection and Quality Analysis System Based on Multi-Model Fusion**
+### **:sparkles:Research on Apple Detection and Quality Analysis System Based on Multi-Model Fusion**
 - Target detection and counting: YOLOv7 model was used to achieve apple target detection, 200 samples were detected using SPSS, and the number of apples in a single image was counted by the number of detection frames, and a histogram of the distribution of the number of apples generated was obtained.
 - Maturity grading assessment: Definition of three stages of maturity criteria, calculation of maturity based on red/yellow/green pigment weights, and development of a HSV colour space analysis model.
 <div align = "center">   
@@ -77,14 +77,14 @@ Comparison of resnet model and vif model results
 </div>
   
                                                                             
-### **Generation of Wargame Sand Tables Based on Diffusion Models**  
+### **:sparkles:Generation of Wargame Sand Tables Based on Diffusion Models**  
 *Jan 2024 - Feb 2025*  
 - Integrated diffusion models and text-driven tech to develop a military chess sandbox generation system.  
 - Built a high-quality dataset through data cleaning, annotation, and augmentation (rotation/scaling).  
 - Optimized model performance via hyperparameter tuning, network structure refinement, and regularization.  
 - Collaborated with military experts to validate results; Authored 10,550-word proposal for national project approval.  
 
-### **“Cun Buyixing” — Intelligent Unmanned Delivery Vehicle**  
+### **:sparkles:“Cun Buyixing” — Intelligent Unmanned Delivery Vehicle**  
 <!--*Member | Nov 2023 - Mar 2024* --> 
 *Nov 2023 - Mar 2024*
 - Designed wheel-track composite structure for terrain adaptability (slopes, stairs, elevators).  
@@ -92,7 +92,7 @@ Comparison of resnet model and vif model results
 - Integrated TOF radar and Molex laser tech for obstacle avoidance; Created CAD 3D diagrams and demo videos.  
 - Wrote 78-page technical manual; Secured provincial-level project approval.  
 
-### **Mathematical Contest In Modeling: Momentum in Tennis**  
+### **:sparkles:Mathematical Contest In Modeling: Momentum in Tennis**  
 *Feb 2024*  
 - Captured scoring patterns in tennis matches and analyzed key factors influencing results using randomness analysis.  
 - Preprocessed match data via **missing value imputation, outlier detection, and feature standardization**; managed datasets with **MySQL**.
@@ -123,7 +123,7 @@ Markov-Based Tennis Momentum State Prediction Model running results&emsp;&emsp;&
 </div>
 
 
-### **Mathematical Modeling: Twilight Factor of Telescopes**  
+### **:sparkles:Mathematical Modeling: Twilight Factor of Telescopes**  
 *Nov 2023*  
 - Designed a standardized evaluation framework for telescope performance in low-light environments.  
 - Created a resolution model integrating **telescope parameters, optical characteristics, and human eye perception**, calculating correction factors for dim conditions.  
