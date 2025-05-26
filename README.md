@@ -23,10 +23,6 @@ GPA: 81.04/100 | IELTS: 6.0
 **First Author**, *Comprehensive Analysis of Fruit Detection, Ripeness Assessment, and Mass Estimation Using YOLOv7, ResNet, and ViT Models*  
 2024 IEEE 3rd International Conference on Electrical Engineering, Big Data and Algorithms | Feb 2024 | DOI: 1647  
 
-# Publication
-**First Author**, *Comprehensive Analysis of Fruit Detection, Ripeness Assessment, and Mass Estimation Using YOLOv7, ResNet, and ViT Models*  
-2024 IEEE 3rd International Conference on Electrical Engineering, Big Data and Algorithms | Feb 2024 | DOI: 1647
-
 <p>    
 <img  src=""  width="400"  align="left" />
 <b>Comprehensive Analysis of Fruit Detection, Ripeness Assessment, and Mass Estimation using YOLOv7, ResNet, and ViT Models</b>
