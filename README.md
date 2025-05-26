@@ -50,7 +50,20 @@ GPA: 81.04/100 | IELTS: 6.0
 ## 💼 Professional Experience  
 ### **Research on Apple Detection and Quality Analysis System Based on Multi-Model Fusion**
 - Target detection and counting: YOLOv7 model was used to achieve apple target detection, 200 samples were detected using SPSS, and the number of apples in a single image was counted by the number of detection frames, and a histogram of the distribution of the number of apples generated was obtained.
-- Maturity grading assessment: Definition of three stages of maturity criteria, calculation of maturity based on red/yellow/green pigment weights, and development of a HSV colour space analysis model.  
+<div align = "center">    
+&emsp;&emsp;&emsp;&emsp;
+<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/apple/Histogram%20of%20apple%20count%20distribution.png" width="25%" /> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/apple/Histogram%20of%20apple%20count%20distribution%20by%20using.png" width="25%" />
+<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Histogram of apple quality distribution &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Histogram of apple count distribution by using</div>
+
+- Maturity grading assessment: Definition of three stages of maturity criteria, calculation of maturity based on red/yellow/green pigment weights, and development of a HSV colour space analysis model.
+<div align = "center">    
+<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/Crossplot%20of%20GAME%20winloss%20scenarios%20and%20momentum%20score.png" width="40%" />
+<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Visualization of datas(players' Momentum Score) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Crossplot of GAME win/loss scenarios and momentum score
+</div>
+  
 - Mass estimation algorithm:Introduce the coin reference to establish the pixel-mass conversion model ,derive the mass calculation formula, then estimate the mass of a single fruit by the red pixel area.
 - Comparative Analysis of Classification Models: Constructing ResNet and ViT Dual Model Classification Frameworks, Validation Set Accuracy Comparison Experiments.
   
