@@ -25,7 +25,7 @@ GPA: 81.04/100 | IELTS: 6.0
 <b>Comprehensive Analysis of Fruit Detection, Ripeness Assessment, and Mass Estimation Using YOLOv7, ResNet, and ViT Models</b>
 <br>
 <b>Zhihan Guo</b>, Minqi Liu<br>IEEE 3rd International Conference on Electrical Engineering, Big Data and Algorithms 2024<br>
-  <a href="#" style="color:#3498db; text-decoration:none; border:2px solid #3498db; padding:6px 12px; border-radius:5px; margin-right:15px;">[Webpage]</a>
+  <a href="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/Comprehensive%20Analysis%20of%20Fruit%20Detection%2C%20Ripeness%20Assessment%2C%20and%20Mass%20Estimation%20using%20YOLOv7%2C%20ResNet%2C%20and%20ViT%20Models.pdf" style="color:#3498db; text-decoration:none; border:2px solid #3498db; padding:6px 12px; border-radius:5px; margin-right:15px;">[Webpage]</a>
   <br><br><br>
 </p>
 <br><br><br>
