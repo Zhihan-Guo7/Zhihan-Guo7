@@ -73,14 +73,14 @@ GPA: 81.04/100 | IELTS: 6.0
 - Provided weighted nonlinear processing to compute twilight factors, addressing limitations of traditional models.  
 - Delivered actionable recommendations for telescope selection in astronomical observation scenarios.
 <div align = "center">    
-<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/Image%20of%20the%20signal-to-noise%20ratio%20equation.png" width="30%" />
-<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/Eye%20brightness%20sensory%20map%20.png" width="30%" />
-<img  src="https://i-blog.csdnimg.cn/blog_migrate/348f8ce8a69c97427cf55dde66f1b4c7.png" width="30%" />
+<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/Image%20of%20the%20signal-to-noise%20ratio%20equation.png" width="20%" /> &emsp;&emsp;&emsp;&emsp;
+<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/Eye%20brightness%20sensory%20map%20.png" width="20%" />
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/The%20new%20dusk%20factor%20is%20applicable%20to%20the%20statistical%20results%20of%20tests%20conducted%20with%20seven%20different%20lenses.png" width="20%" />
 <br>
-这是3张相同的图片，用来演示说明
+<font size=1.5em>Image of the signal-to-noise ratio equation</font>  &emsp;&emsp;&emsp;  <span style="font-size: 20px;">Eye brightness sensory map</span> &emsp;&emsp;The application of the new dusk coefficient in 7 lens
 </div>
 
-  
 ---
 
 ## 👨💻 Internship Experience  
