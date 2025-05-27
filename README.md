@@ -90,19 +90,18 @@ Comparison of resnet model and vif model results
 - Designed wheel-track composite structure for terrain adaptability (slopes, stairs, elevators).  
 - Implemented GPS/BeiDou navigation and RVIZ for real-time 3D motion tracking.
 <div align = "center">    
-<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/car/Flowchart%20of%20the%20intelligent%20elevator%20system.jpg" width="46%" /> &emsp;
-<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/car/simulation%20model.png" width="50%" />
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/car/Flowchart%20of%20the%20intelligent%20elevator%20system.jpg" width="30%" /> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/car/simulation%20model.png" width="30%" />
 <br>
-&emsp;&emsp;&emsp;&emsp;Flowchart of the intelligent elevator system &emsp;&emsp;&emsp;&emsp;&emsp; simulation model
+Flowchart of the intelligent elevator system  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;simulation model
 </div>
    
 - Integrated TOF radar and Molex laser tech for obstacle avoidance; Created CAD 3D diagrams and demo videos.  
 - Wrote 78-page technical manual; Secured provincial-level project approval.
 <div align = "center">    
-<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/car/rendering%20model.png" width="20%" /> &emsp;&emsp;&emsp;&emsp;
-<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/Eye%20brightness%20sensory%20map%20.png" width="20%" />
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/The%20new%20dusk%20factor%20is%20applicable%20to%20the%20statistical%20results%20of%20tests%20conducted%20with%20seven%20different%20lenses.png" width="20%" />
+<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/car/rendering%20model.png" width="30%" /> &emsp;
+<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/car/rendering%20model3.png" width="30%" />&emsp;
+<img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/car/rendering%20model2.png" width="30%" />
 <br>
 rendering model
 </div>
@@ -175,7 +174,7 @@ Markov-Based Tennis Momentum State Prediction Model running results&emsp;&emsp;&
 - Delivered 34-minute English presentation (Grade: A-).
 </p>
 <br>
-
+<br>
 
 ---
 
