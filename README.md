@@ -168,6 +168,15 @@ Markov-Based Tennis Momentum State Prediction Model running results&emsp;&emsp;&
 ## 🌐 Exchange Experience  
 <p>    
 <img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/HK.jpg"  width="220"  align="right"  />
+  <b>Hong Kong University | Jun 2025 </b><br>
+- Learned howto use generative AI to generate images and videos.Then used generative AI in education to assist people in learning
+ Chinese idioms.  <br>
+- Learned about the Python programs on Colab and how to use prompts to enhance the quality of AI-generated images and videos.  <br>
+- Analyzed the impact of different prompts on the AI and compared the differences between different AI platforms.<br>
+- Accomplished all the workshop and delivered a 15-minute presentation in English.
+</p>
+<br>
+<p>    
   <b>The Chinese University of Hong Kong | Feb 2024 </b><br>
 - Researched SenseTime’s AI risk assessment and Bowtie Insurance’s digital marketing strategies.  <br>
 - Proposed blockchain integration for food supply chain traceability (Qian Da Ma Supermarket case study).  <br>
