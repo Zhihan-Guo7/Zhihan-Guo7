@@ -168,7 +168,7 @@ Markov-Based Tennis Momentum State Prediction Model running results&emsp;&emsp;&
 ## 🌐 Exchange Experience  
 <p>    
   <b>Hong Kong University | Jun 2025 </b><br>
-- Learned howto use generative AI to generate images and videos.Then used generative AI in education to assist people in learning
+- Learned how to use generative AI to generate images and videos.Used generative AI in education to assist people in learning
  Chinese idioms.  <br>
 - Learned about the Python programs on Colab and how to use prompts to enhance the quality of AI-generated images and videos.  <br>
 - Analyzed the impact of different prompts on the AI and compared the differences between different AI platforms.<br>
