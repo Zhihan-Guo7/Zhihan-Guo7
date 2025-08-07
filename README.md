@@ -15,7 +15,7 @@ I’m open to any kinds of collaboration. Please feel free to contact me directl
 
 **Southwest University (SWU)**  
 Bachelor of Engineering in Software Engineering | Sep 2022 - Jun 2026  
-GPA: 81.04/100 | IELTS: 6.0  
+GPA: 83.086/100 | IELTS: 6.0  
 
 ---
 
