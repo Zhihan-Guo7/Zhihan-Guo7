@@ -195,6 +195,6 @@ Markov-Based Tennis Momentum State Prediction Model running results&emsp;&emsp;&
 
 <p align="center">
   <a href="#guo-zhihan">
-    <img src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/resume%20Guo%20Zhihan-Southwest%20University-%20Bachelor%20of%20Engineering%20in%20Software%20Engineering-Class%202022.pdf" alt="PDF Resume" />
+    <img src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/resume Guo Zhihan-Southwest University- Bachelor of Engineering in Software Engineering-Class 2022.pdf" alt="PDF Resume" />
   </a>
 </p>
