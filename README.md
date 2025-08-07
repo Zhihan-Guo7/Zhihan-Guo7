@@ -174,7 +174,6 @@ Markov-Based Tennis Momentum State Prediction Model running results&emsp;&emsp;&
 - Analyzed the impact of different prompts on the AI and compared the differences between different AI platforms.<br>
 - Accomplished all the workshop and delivered a 15-minute presentation in English.
 </p>
-<br>
 <p>    
   <img  src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/HK.jpg"  width="220"  align="right"  />
   <b>The Chinese University of Hong Kong | Feb 2024 </b><br>
