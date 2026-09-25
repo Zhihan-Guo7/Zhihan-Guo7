@@ -1,7 +1,7 @@
 
 # Guo Zhihan 
 ## Hi there 👋
-I am a first-year graduate studente at RBM(Red Bird MPhil) in HKUST(GZ).
+I am a first-year graduate studente at RBM(Red Bird MPhil)   <img src="images/红火火.png" alt="HKUST Logo" style="height: 1.3em; margin-right: 0.8em;"> in HKUST(GZ).
 
 I’m open to any kinds of collaboration. Please feel free to contact me directly through email.
 
@@ -18,6 +18,10 @@ I’m open to any kinds of collaboration. Please feel free to contact me directl
 Bachelor of Engineering in Software Engineering | Sep 2022 - Jun 2026  
 GPA: 83.086/100 | IELTS: 6.5  
 
+**HKUST(GZ)** <img src="images/HKUST校徽.png" alt="HKUST Logo" style="height: 1.3em; margin-right: 0.8em;"> 
+
+<p>Red Bird MPhil(RBM)   | Sep 2026 - now
+  
 ---
 
 ## 📝 Publication  
