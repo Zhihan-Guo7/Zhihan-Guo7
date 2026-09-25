@@ -2,6 +2,7 @@
 # Guo Zhihan 
 ## Hi there 👋
 I am a first-year graduate studente at RBM(Red Bird MPhil) in HKUST(GZ).
+
 I’m open to any kinds of collaboration. Please feel free to contact me directly through email.
 
 📧 Zhihan.G@outlook.com | 📱 (+86)151-8699-9278 | 🐱 [GitHub](https://github.com/)  
