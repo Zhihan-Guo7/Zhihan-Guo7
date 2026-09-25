@@ -1,7 +1,7 @@
 
 # Guo Zhihan 
 ## Hi there 👋
-I am a thild-year undergraduate student in the Software Engineer at the College of Computer and Information Science, Southwest University.
+I am a first-year graduate studente at RBM(Red Bird MPhil) in HKUST(GZ).
 I’m open to any kinds of collaboration. Please feel free to contact me directly through email.
 
 📧 Zhihan.G@outlook.com | 📱 (+86)151-8699-9278 | 🐱 [GitHub](https://github.com/)  
@@ -13,9 +13,9 @@ I’m open to any kinds of collaboration. Please feel free to contact me directl
   <strong>Guiyang No.1 High School </strong><img src="https://github.com/Zhihan-Guo7/Zhihan-Guo7/blob/main/images/%E8%B4%B5%E9%98%B3%E4%B8%80%E4%B8%AD.jpg?raw=true" alt="Guiyang No.1 High School Logo" style="height: 1em; margin-right: 0.5em;">       &nbsp; | Sep 2019 - Jun 2022
 </p>
 
-**Southwest University (SWU)**  
+**Undergraduate College**  
 Bachelor of Engineering in Software Engineering | Sep 2022 - Jun 2026  
-GPA: 83.086/100 | IELTS: 6.0  
+GPA: 83.086/100 | IELTS: 6.5  
 
 ---
 
